@@ -1,0 +1,1 @@
+execute positioned ^ ^ ^.5 run function orbitalstrikecanon:nuke1/hitcheck

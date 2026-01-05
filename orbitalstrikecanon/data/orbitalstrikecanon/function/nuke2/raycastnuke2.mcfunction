@@ -1,0 +1,1 @@
+execute positioned ~ ~1.5 ~ positioned ^ ^ ^.5 run function orbitalstrikecanon:nuke2/laser

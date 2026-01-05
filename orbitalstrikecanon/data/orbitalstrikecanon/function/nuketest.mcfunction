@@ -1,0 +1,1 @@
+execute at @s unless block ^ ^ ^7 air run setblock ~ ~ ~ tnt
